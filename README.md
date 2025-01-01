@@ -1,4 +1,4 @@
-👋 Hi, I’m @Shivsaran086  
+👋 Hi, I’m Shivsaran Yadav
 - 👀 I’m interested in web development, machine learning, and open-source contributions.  
 - 🌱 I’m currently learning advanced machine learning techniques and improving my problem-solving skills in Python and C.  
 - 💞️ I’m looking to collaborate on web development and machine learning projects.  
